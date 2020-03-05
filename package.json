@@ -1,0 +1,14 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome,safari,firefox "
+  },
+  "author": "Brenda Robles",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.8.2"
+  }
+}
